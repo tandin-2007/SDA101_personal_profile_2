@@ -1,5 +1,7 @@
+# general reset
 *{margin:0;padding:0;box-sizing:border-box;font-family:"Poppins",sans-serif;}
 
+# navigation bar
 .navbar{
   display:flex;
   justify-content:space-between;
@@ -272,6 +274,7 @@ footer a {
 footer a:hover {
   color: #ff6666;
 }
+
 
 
 
